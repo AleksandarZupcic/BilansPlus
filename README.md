@@ -25,14 +25,23 @@ Planned AWS-style services include:
 - Terraform for infrastructure as code
 
 ## Project Structure
+
 BilansPlus/
+
 │
+
 ├── docs/
+
 ├── infra/
+
 ├── services/
+
 ├── config/
+
 ├── scripts/
+
 ├── samples/
+
 └── tests/
 
 ## Folder Overview
@@ -92,6 +101,8 @@ BilansPlus is built as a portfolio-grade cloud engineering project. It is intend
 * NoSQL metadata storage
 * automation scripting
 * clean project documentation
-=================================================================================================================
+
+====================================
+
 This project is designed to run locally with Docker, LocalStack, AWS CLI, and Terraform.
 No real AWS resources are required for local development or were hurt in the making of this git repo.
