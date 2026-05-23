@@ -1,0 +1,19 @@
+BILANSPLUS SAMPLE ACCOUNTING DOCUMENT
+Title: Supplier Bill - Electricity
+Document ID: doc-2026-006
+Company ID: company-001
+Document Type: supplier_bill
+Party: Elektro Distribucija Primer
+Date: 2026-05-20
+Currency: RSD
+Total Amount: 15600 RSD
+Suggested Konto: 5130 - Troškovi goriva i energije
+
+Line Items:
+- Office electricity usage: 13000 RSD
+- VAT 20%: 2600 RSD
+
+Processing Notes:
+Electricity and energy expense.
+
+This is fictional demo data for LocalStack/AWS simulation.

@@ -1,0 +1,20 @@
+BILANSPLUS SAMPLE ACCOUNTING DOCUMENT
+Title: Receipt - Knjizara Merkur
+Document ID: doc-2026-015
+Company ID: company-001
+Document Type: receipt
+Party: Knjižara Merkur
+Date: 2026-05-15
+Currency: RSD
+Total Amount: 2700 RSD
+Suggested Konto: 5120 - Troškovi kancelarijskog materijala
+
+Line Items:
+- Notebooks: 1200 RSD
+- Pens: 600 RSD
+- Folders: 900 RSD
+
+Processing Notes:
+Small office supplies receipt.
+
+This is fictional demo data for LocalStack/AWS simulation.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BilansPlusDocument>
+  <DocumentId>doc-2026-002</DocumentId>
+  <CompanyId>company-001</CompanyId>
+  <DocumentType>sales_invoice</DocumentType>
+  <Party>Client Alfa d.o.o.</Party>
+  <IssueDate>2026-05-18</IssueDate>
+  <Currency>RSD</Currency>
+  <TotalAmount>72000</TotalAmount>
+  <SuggestedKonto code="6020">Prihodi od prodaje usluga</SuggestedKonto>
+</BilansPlusDocument>

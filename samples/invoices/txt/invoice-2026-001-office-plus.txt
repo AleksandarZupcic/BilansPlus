@@ -1,0 +1,20 @@
+BILANSPLUS SAMPLE ACCOUNTING DOCUMENT
+Title: Supplier Invoice - Office Plus
+Document ID: doc-2026-001
+Company ID: company-001
+Document Type: supplier_invoice
+Party: Office Plus d.o.o.
+Date: 2026-05-10
+Currency: RSD
+Total Amount: 21000 RSD
+Suggested Konto: 5120 - Troškovi kancelarijskog materijala
+
+Line Items:
+- A4 paper, 20 packs: 8000 RSD
+- Toner cartridge: 7000 RSD
+- Office pens and folders: 2500 RSD
+
+Processing Notes:
+Office supplies purchased from domestic supplier.
+
+This is fictional demo data for LocalStack/AWS simulation.

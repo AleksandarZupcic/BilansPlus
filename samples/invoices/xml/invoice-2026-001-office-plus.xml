@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BilansPlusDocument>
+  <DocumentId>doc-2026-001</DocumentId>
+  <CompanyId>company-001</CompanyId>
+  <DocumentType>supplier_invoice</DocumentType>
+  <Party>Office Plus d.o.o.</Party>
+  <IssueDate>2026-05-10</IssueDate>
+  <Currency>RSD</Currency>
+  <TotalAmount>21000</TotalAmount>
+  <SuggestedKonto code="5120">Troškovi kancelarijskog materijala</SuggestedKonto>
+</BilansPlusDocument>

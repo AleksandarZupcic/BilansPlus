@@ -1,0 +1,19 @@
+BILANSPLUS SAMPLE ACCOUNTING DOCUMENT
+Title: Sales Invoice - Client Alfa
+Document ID: doc-2026-002
+Company ID: company-001
+Document Type: sales_invoice
+Party: Client Alfa d.o.o.
+Date: 2026-05-18
+Currency: RSD
+Total Amount: 72000 RSD
+Suggested Konto: 6020 - Prihodi od prodaje usluga
+
+Line Items:
+- Software maintenance services: 40000 RSD
+- Accounting workflow consultation: 20000 RSD
+
+Processing Notes:
+Service revenue from domestic customer.
+
+This is fictional demo data for LocalStack/AWS simulation.

@@ -1,0 +1,5 @@
+date,direction,counterparty,description,amount,currency,expected_konto
+2026-05-10,OUTGOING,Office Plus d.o.o.,Invoice OP-2026-001,-21000,RSD,4330
+2026-05-14,OUTGOING,Petrol Plus,Fuel receipt PP-014-2026,-9200,RSD,5130
+2026-05-18,INCOMING,Client Alfa d.o.o.,Service invoice BP-2026-018,72000,RSD,2040
+2026-05-22,OUTGOING,Rent Group d.o.o.,Office rent May 2026,-48000,RSD,5500
